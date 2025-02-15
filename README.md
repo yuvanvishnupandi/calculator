@@ -1,4 +1,4 @@
-# Calculator 🧮 🖩
+# A Simple Math Calculator using only HTML, CSS and JS
 
 A simple yet **aesthetic** calculator with a **wavy animated background**, **glassmorphism UI**, and **smooth button hover effects**. Built with **HTML, CSS, and JavaScript**, this project is beginner-friendly and easy to understand.  
 
